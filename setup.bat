@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-@echo off 
 @echo off
 title Bulk Image Optimizer Setup
 mode con: cols=71 lines=15
