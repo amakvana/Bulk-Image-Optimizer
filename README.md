@@ -16,7 +16,7 @@ The compression is lossless and therefore every ounce of quality is retained :)
   * Best Compression - uses the most thorough compression techniques to get the smallest files possible. This will be far slower!
 * Once all images are compressed, the program will close itself
 
-# Acknowledgements
+## Acknowledgements
 Thanks:
 * [advpng](https://github.com/amadvance/advancecomp)
 * [jpegoptim](https://github.com/tjko/jpegoptim)
