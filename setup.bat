@@ -19,12 +19,12 @@ mkdir "%tempPath%" >nul 2>&1
 REM Download assets
 echo; 
 echo Fetching assets ...
-powershell -Command "Invoke-WebRequest https://github.com/amakvana/bulk-image-optimizer/assets/advpng.exe -OutFile %tempPath%\advpng.exe" >nul 2>&1
-powershell -Command "Invoke-WebRequest https://github.com/amakvana/bulk-image-optimizer/assets/jpegoptim.exe -OutFile %tempPath%\jpegoptim.exe" >nul 2>&1
-powershell -Command "Invoke-WebRequest https://github.com/amakvana/bulk-image-optimizer/assets/jpegtran.exe -OutFile %tempPath%\jpegtran.exe" >nul 2>&1
-powershell -Command "Invoke-WebRequest https://github.com/amakvana/bulk-image-optimizer/assets/optimize.bat -OutFile %tempPath%\optimize.bat" >nul 2>&1
-powershell -Command "Invoke-WebRequest https://github.com/amakvana/bulk-image-optimizer/assets/optipng.exe -OutFile %tempPath%\optipng.exe" >nul 2>&1
-powershell -Command "Invoke-WebRequest https://github.com/amakvana/bulk-image-optimizer/assets/zopflipng.exe -OutFile %tempPath%\zopflipng.exe" >nul 2>&1
+powershell -Command "Invoke-WebRequest https://github.com/amakvana/Bulk-Image-Optimizer/blob/master/assets/advpng.exe -OutFile %tempPath%\advpng.exe" >nul 2>&1
+powershell -Command "Invoke-WebRequest https://github.com/amakvana/Bulk-Image-Optimizer/blob/master/assets/jpegoptim.exe -OutFile %tempPath%\jpegoptim.exe" >nul 2>&1
+powershell -Command "Invoke-WebRequest https://github.com/amakvana/Bulk-Image-Optimizer/blob/master/assets/jpegtran.exe -OutFile %tempPath%\jpegtran.exe" >nul 2>&1
+powershell -Command "Invoke-WebRequest https://github.com/amakvana/Bulk-Image-Optimizer/blob/master/assets/optimize.bat -OutFile %tempPath%\optimize.bat" >nul 2>&1
+powershell -Command "Invoke-WebRequest https://github.com/amakvana/Bulk-Image-Optimizer/blob/master/assets/optipng.exe -OutFile %tempPath%\optipng.exe" >nul 2>&1
+powershell -Command "Invoke-WebRequest https://github.com/amakvana/Bulk-Image-Optimizer/blob/master/assets/zopflipng.exe -OutFile %tempPath%\zopflipng.exe" >nul 2>&1
 
 REM move into "%programfiles%\Image Optimization\"
 echo Preparing assets ...
