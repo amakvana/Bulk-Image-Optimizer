@@ -4,7 +4,7 @@ Bulk Optimize Images via Windows Context menu
 The compression is lossless and therefore every ounce of quality is retained :)
 
 ## Installation
-* Download the [setup](https://github.com/amakvana/Cemu-Auto-Shader-Compiler/releases/download/v1.0/cemu-auto-shader-compiler.bat) script 
+* Download the [cemu-auto-shader-compiler](https://github.com/amakvana/Cemu-Auto-Shader-Compiler/releases/download/v1.0/cemu-auto-shader-compiler.bat) script 
 * Place the script in the same folder cemu.exe lives in 
 
 ## Usage
