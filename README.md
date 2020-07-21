@@ -3,6 +3,8 @@ Bulk Optimize Images via Windows Context menu
 
 The compression is lossless and therefore every ounce of quality is retained :)
 
+![Bulk Image Optimizer](images/bio.png)
+
 ## Installation
 * Download the [setup](https://github.com/amakvana/Bulk-Image-Optimizer/releases/latest) script
 * Right-click > Run as Administrator
