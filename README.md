@@ -4,7 +4,7 @@ Bulk Optimize Images via Windows Context menu
 The compression is lossless and therefore every ounce of quality is retained :)
 
 ## Installation
-* Download the setup script
+* Download the [setup](https://github.com/amakvana/Bulk-Image-Optimizer/releases/latest) script
 * Right-click > Run as Administrator
 * When prompted, press Enter to begin installation
 
